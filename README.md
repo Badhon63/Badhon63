@@ -12,7 +12,7 @@
 
 ### ⚙️ Languages and Tools
 
-![](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,figma,php,linux,python,betterAuth,js node, next.js,java,javaScript)
+![](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,figma,php,linux,python,)
 
 ---
 
