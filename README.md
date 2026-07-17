@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Lima Akter Badhon 👋
 
-<!--
-**Badhon63/Badhon63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Developer | React & Tailwind Learner | Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **React, Tailwind CSS**
+- 🌱 I'm currently learning **JavaScript, Node.js**
+- 👀 I'm interested in **building clean, responsive web interfaces**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/lima-akter-badhon/)**
+- ⚡ Fun fact: **Small things can be very impactful, as like me.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Languages and Tools
+
+![](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,figma)
+
+---
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Badhon63&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon63&theme=tokyonight&layout=compact)
+
+---
+
+### 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com/?user=Badhon63&theme=tokyonight)
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lima-akter-badhon/)
