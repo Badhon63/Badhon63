@@ -99,6 +99,18 @@ class About extends Lima_Akter_Badhon {
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
+---
+
 <p align="center">
   <i>"First, solve the problem. Then, write the code." – Lima Akter Badhon</i>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ba360,50:2c5364,100:0f2027&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=65&animation=twinkling" width="100%" />
