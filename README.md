@@ -109,7 +109,6 @@ class About extends Lima_Akter_Badhon {
 
 ---
 
----
 
 <p align="center">
   <i>"First, solve the problem. Then, write the code." – Lima Akter Badhon</i>
